@@ -19,7 +19,7 @@ NickName: 'no nickname'
 webtitle: 'My blog...'
 bio: 'no bio'
 about: true
-aboutyou: 'your introduction'
+aboutyou: 'A student who is learning python'
 portraits: '/assets/profile.jpeg' # your portraits image file path
 
 # SNS
@@ -27,8 +27,8 @@ SNS: true
 SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagram', 'weixin', 'Codepen']
   mail: 'mailto:wpinwen2007@tom.com'
   weixin: '' # 你的微信二维码存放的地址
-  qq: '' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='你的QQ号'&site=qq&menu=yes
-  github: ''
+  qq: 'http://wpa.qq.com/msgrd?v=3&uin=3086616942&site=qq&menu=yes' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='你的QQ号'&site=qq&menu=yes
+  github: 'https://github.com/pinwen8888'
   Codepen: ''
   weibo: ''
   instagram: ''
