@@ -26,7 +26,7 @@ portraits: '/assets/profile.jpeg' # your portraits image file path
 SNS: true
 SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagram', 'weixin', 'Codepen']
   mail: 'mailto:wpinwen2007@tom.com'
-  weixin: '' # 你的微信二维码存放的地址
+  weixin: 'https://upload.cc/i1/2019/07/19/yjNRFv.jpeg' # 你的微信二维码存放的地址
   qq: 'http://wpa.qq.com/msgrd?v=3&uin=3086616942&site=qq&menu=yes' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='你的QQ号'&site=qq&menu=yes
   github: 'https://github.com/pinwen8888'
   Codepen: ''
