@@ -66,10 +66,10 @@ friends:
 disqus: false
 disqus_url: '' # https://abc.disqus.com/embed.js
 # 来必力评论
-livere: false
+livere: true
 livere_uid: 'MTAyMC80NDg1OS==' # MTAyMC8zNDI2OS8xMDgwNg==
 # Gitment评论 OAuth Application
-Gitment: true
+Gitment: false
 Gitment_owner: 'pinwen8888'  # github用户名
 Gitment_repo: 'pinwen8888.github.io'  # github博客存放的仓库名
 client_id: '630497c1183e40aaac80'  # 注册 OAuth Application 后获得的 client_id
