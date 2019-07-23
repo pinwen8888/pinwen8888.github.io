@@ -59,7 +59,8 @@ pygmentsTheme: 'default'
 
 # 友情链接
 friends:
-  jekyll: 'https://www.jekyll.com/'
+  jekyll: 'https://jekyllrb.com/'
+  liangxu: 'https://liangxu.wang/'
 
 # 评论 最佳体验 在disqus、livere和Gitment之间三选一
 # disqus 评论
