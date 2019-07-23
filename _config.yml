@@ -24,21 +24,21 @@ portraits: '/assets/profile.jpeg' # your portraits image file path
 
 # SNS
 SNS: true
-SNS-icon: ['qq', 'github', 'weixin', 'Codepen', 'mail']
+SNS-icon: #['qq', 'github', 'weixin', 'Codepen', 'mail']
   mail: 'mailto:wpinwen2007@tom.com'
   weixin: 'https://upload.cc/i1/2019/07/19/yjNRFv.jpeg' # 你的微信二维码存放的地址
   qq: 'http://wpa.qq.com/msgrd?v=3&uin=3086616942&site=qq&menu=yes' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='你的QQ号'&site=qq&menu=yes
   github: 'https://github.com/pinwen8888'
   Codepen: 'https://codepen.io/pinwen8888/'
-  weibo: ''
-  instagram: ''
-  Twitter: ''
-  Dribbble: ''
-  Facebook: ''
-  Google: ''
-  zhihu: ''
-  juejin: ''
-  twitch: ''
+  #weibo: ''
+  #instagram: ''
+  #Twitter: ''
+  #Dribbble: ''
+  #Facebook: ''
+  #Google: ''
+  #zhihu: ''
+  #juejin: ''
+  #twitch: ''
 
 # 分页
 paginate: 2
