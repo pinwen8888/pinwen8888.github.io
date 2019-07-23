@@ -41,7 +41,7 @@ sm.ms是2015年成立的，删除要用API，具体见官网 > API。 [传送门
 14.Postimage<br>
 更老的网站，2004年成立，服务全球。[传送门](https://postimages.org/)<br>
 15.堆爱图床<br>
-以新浪平台做存储的图床。[传送门](http://img.duiai.cc/)<br><hr>
+以新浪平台做存储的图床。[传送门](http://img.duiai.cc/)<br>
 
 如果图床只支持http，可以在链接前加用以下地址来解决：<br>
 
