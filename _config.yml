@@ -1,5 +1,5 @@
 # Site settings 配置站点
-title: 'A blog of a python learner'
+title: 'A python learner'
 description: 'free things, python'
 keywords: 'free things, python'
 url: 'https://pinwen.cc' # your host
@@ -17,7 +17,7 @@ author: true
 name: 'Henry Wang'
 NickName: 'no nickname'
 webtitle: 'My blog...'
-bio: 'no bio'
+bio: 'A middle school student in Shanghai, China'
 about: true
 aboutyou: 'A student who is learning python'
 portraits: '/assets/profile.jpeg' # your portraits image file path
@@ -66,14 +66,14 @@ friends:
 disqus: false
 disqus_url: '' # https://abc.disqus.com/embed.js
 # 来必力评论
-livere: true
+livere: false
 livere_uid: 'MTAyMC80NDg1OS==' # MTAyMC8zNDI2OS8xMDgwNg==
 # Gitment评论 OAuth Application
-Gitment: false
-Gitment_owner: ''  # github用户名
-Gitment_repo: ''  # github博客存放的仓库名
-client_id: ''  # 注册 OAuth Application 后获得的 client_id
-client_secret: ''  # 注册 OAuth Application 后获得的 client_secret
+Gitment: true
+Gitment_owner: 'pinwen8888'  # github用户名
+Gitment_repo: 'pinwen8888.github.io'  # github博客存放的仓库名
+client_id: '630497c1183e40aaac80'  # 注册 OAuth Application 后获得的 client_id
+client_secret: '2524f6610e1d0e11c3f9eda4c54aabf0f8b44850'  # 注册 OAuth Application 后获得的 client_secret
 
 # Share : weibo, qq, wechat, tencent, douban, qzone, linkedin, diandian, facebook, twitter, google
 social-share: true
