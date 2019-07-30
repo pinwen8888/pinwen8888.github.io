@@ -14,6 +14,6 @@ subtitle: '分享：很好的编程教材'
 但是，我找了很久，都没有找到一本好书…………<br>
 直到我发现了这本书。<br>
 在这里推荐给大家：<br>
-[与孩子一起学编程_中文版](https://sendeyo.com/en/d38b2faf7d)
+[与孩子一起学编程_中文版](https://pan.baiduwp.com/s/1wQ-fZHXParsCFjZ_0W0Bog?path=%2F&page=1&pwd=beqh)
 学习愉快！(呵呵)<br>
 ![](https://image.slidesharecdn.com/llc400-2013-l22-130313014609-phpapp02/95/llc4002013l22-19-638.jpg?cb=1363139273)
