@@ -87,7 +87,20 @@ Github大佬icret编的[开源项目](https://github.com/icret/easyImages2.0),�
 最大64MB 图片大小. [传送门](https://www.z4a.net)<br>
 38.Catbox<br>
 最大 200MB 图片大小.[传送门](https://catbox.moe/)<br>
-
+39.hualigs.cn(遇见图床)<br>
+最大10MB大小.[传送门](https://www.hualigs.cn)<br>
+40.麒麟站<br>
+新成立的图床.[传送门](https://07.tn/)<br>
+41.帕格图床<br>
+默认使用SM.MS图床，你也可以点击左边的菜单切换,但请不要使用Gitee和Github。[传送门](https://img.pug.pub/)<br>
+42.zx95.net<br>
+最大 2 MB 图片大小. [传送门](https://www.zx95.net/)<br>
+43.imgbox<br>
+单张最大10MB大小。[](https://imgbox.com)<br>
+44.Boin space<br>
+无限制。[传送门](https://boin.space/)<br>
+45.imggmi<br>
+无需登录。[传送门](https://imggmi.com/)<br>
 如果图床只支持http，可以在链接前加用以下地址来解决：<br>
 
 ```
