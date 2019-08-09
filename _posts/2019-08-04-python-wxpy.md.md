@@ -17,8 +17,7 @@ subtitle: '利用wxpy快速创建微信机器人'
 from wxpy import *
 bot=Bot() 
 '''
-如果你在服务器上用ssh执行程序，看不见打开的图
-片，可以在括号里加上console_qr=True, 若二维码变形则加上console_qr=1或其他倍数
+如果你在服务器上用ssh执行程序，看不见打开的图片，可以在括号里加上console_qr=True, 若二维码变形则加上console_qr=1或其他倍数
 '''
 #后面就是你的代码，我会示范一些，Happy coding
 my_friend = bot.friends().search('你朋友的微信名,若有备注名则是备注名')[0]
@@ -29,8 +28,8 @@ def reply_my_friend(msg):
 '''
 msg.text是朋友发送的消息，引号内的中括号也是ta发送的消息
 '''
-another_friend = bot.friends().search('只要和刚刚那个不一样就行')
-tuling = Tuling(api_key='请在图灵机器人平台自行注并获取api_key')
+another_friend = bot.friends().search('只要和刚刚那个不一样就行')[0]
+tuling = Tuling(api_key='请在图灵机器人平台自行注册并获取api_key')
 
 # 使用图灵机器人自动与指定好友聊天
 @bot.register(another_friend)
