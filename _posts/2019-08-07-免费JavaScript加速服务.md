@@ -3,7 +3,7 @@ layout: post
 title:  "免费JavaScript加速服务"
 date:   2019-08-07 15:40:00 +0800
 tags: free_things
-color: '#FF9933'
+color: 'rgb(255,210,32)'
 cover: 'https://img.c7sky.com/photobucket/javascript-libraries-cdn_zps1db67ec0.png'
 subtitle: '免费JavaScript加速服务'
 ---
