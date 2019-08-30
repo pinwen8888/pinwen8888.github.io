@@ -1,8 +1,8 @@
----
+﻿---
 layout: post
 title:  "完全免费博客"
 date:   2019-08-12 12:00:00 +0800
-tags: free-things
+tags: free-things, web
 color: '#663333'
 cover: '/img/blogs.jpg'
 subtitle: '完全免费博客'
