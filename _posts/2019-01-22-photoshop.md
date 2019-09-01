@@ -2,7 +2,7 @@
 layout: post
 title:  "自己从网上搜罗素材，用Photoshop做的一张图片"
 date:   2019-01-22 17:00:00 +0800
-tags: photo
+tags: photo&video
 color: '#99CCFF'
 cover: 'https://i.loli.net/2019/01/31/5c52ddb24a953.jpg'
 subtitle: '自己从网上搜罗素材，用Photoshop做的一张图片'
