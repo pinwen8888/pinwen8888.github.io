@@ -106,7 +106,7 @@ subtitle: '完全免费博客'
 
   对比这10个博客平台优缺点，可以看到WordPress优于所有其他平台。它功能强大，易于使用，建站费用合理，并且是所有可用博客平台中最灵活的。<br>
 
-## 6、[Ghost](https://ghost.org/)<br>
+## 6.[Ghost](https://ghost.org/)<br>
 
   Ghost是一个极简主义的博客平台，其功能有限，专注于撰写博客文章。它既可作为托管平台使用，也可以自行安装和托管。<br>
 
@@ -241,13 +241,24 @@ subtitle: '完全免费博客'
   Hugo是一个用Go编的静态网页生成程序。它最大的一个优点就是速度很快，另外还有很多精美的主题。关于Hugo的安装、使用教程，请自行搜索（我没用过）。<br>
 
 - 永久免费且[开源](https://github.com/gohugoio/hugo)<br>
+
 - 有很多精美的主题<br>
+
 - 加载速度快<br>
+
 - 提供托管在Github的方法<br>
+
+## 6.[Gitblog](https://github.com/imuncle/gitblog)<br>
+
+官方Github主页上写着：<br>
+
+> 基于git issue的轻量级个人博客模板。<br>
+
+确实，它很轻量，使用也很简单。只需要Fork它的Repo，然后在你的issue里用Github原生支持的Markdown写作就可以了。这个适合不太想折腾的小白。<br>
 
 # 四、免费在线静态网站生成程序<br>
 
-  注：本段翻译来自 translate.google.cn 和腾讯翻译，感谢[ilovefreesoftware](https://www.ilovefreesoftware.com)，由我修改、整理。
+注：本段翻译来自 translate.google.cn 和腾讯翻译，感谢[ilovefreesoftware](https://www.ilovefreesoftware.com)，由我修改、整理。
 
 ## 1.[SAUL](https://app.saul.angry.ventures/#/)<br>
 
