@@ -4,7 +4,7 @@ title:  "一个关于GDP发展的视频"
 date:   2019-09-02 17:00:00 +0800
 tags: photo&video
 color: '#123456'
-cover: '/img/gdp.jpg'
+cover: 'https://pinwen.gitee.io/img/gdp.jpg'
 subtitle: '一个关于GDP发展的视频'
 ---
 最近在哔哩哔哩转悠，突然看到了一个关于数据可视化的视频，我挺感兴趣，就点进去看了看。看完之后，非常震撼。它是关于全球的PPP（购买力）排行榜，从1640年一直排到了2016年。<br>

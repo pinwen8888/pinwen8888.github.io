@@ -4,7 +4,7 @@ title:  "利用wxpy快速创建微信机器人"
 date:   2019-08-04 15:40:00 +0800
 tags: python
 color: '#FF9933'
-cover: '/img/wxpy.png'
+cover: 'https://pinwen.gitee.io/img/wxpy.png'
 subtitle: '利用wxpy快速创建微信机器人'
 ---
 > python是个好东西。为什么？第一，当然是因为TA简洁易懂，第二，是因为TA支持强大的三方库。<br>
