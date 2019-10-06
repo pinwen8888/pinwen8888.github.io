@@ -2,7 +2,7 @@
 layout: post
 title:  "网站优化"
 date:   2019-09-10 17:00:00 +0800
-tags: free-things web
+tags: free_things web
 color: '#99CC99'
 cover: 'https://pinwen.gitee.io/img/seo.svg'
 subtitle: '网站优化'
