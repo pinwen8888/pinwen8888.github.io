@@ -15,7 +15,7 @@ subtitle: '一个关于GDP发展的视频'
   <script>
   let player = new Player({
 	"id": "video",
-	"url": "https://pinwen.gitee.io/video/gdp.mp4",
+	"url": "https://pro-file.xiaoheiban.cn/201910/1571651750000_49641.mp4",
 	"playsinline": true,
 	"whitelist": [
 			""
