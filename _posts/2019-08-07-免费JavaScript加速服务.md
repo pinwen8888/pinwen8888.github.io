@@ -13,6 +13,8 @@ subtitle: '免费JavaScript加速服务'
 
 > 又拍云为您托管常用的JavaScript库，您可以在自己的网页上直接通过script标记引用这些资源。这样做不仅可以为您节省流量，还能通过我们的CDN加速，获得更快的访问速度。<br>
 
+**注：虽然又拍云JS加速服务在我的网络环境测试是非常地快，但是到现在只更新到了2.x版本，所以不推荐大家使用。**
+
 ## [Staticfile CDN](http://staticfile.org/)（七牛云存储提供）<br>
 
 > 我们的目标是提供这样一个仓库，让它尽可能全面收录优秀的开源库，并免费为之提供 CDN 加速服务，使之有更好的访问速度和稳定的环境。<br>
@@ -36,7 +38,6 @@ subtitle: '免费JavaScript加速服务'
 ## [Google Hosted Libraries](https://developers.google.cn/speed/libraries/)<br>
 **重要：由于Google在国内无法访问，请点击上面的链接获取对应的库的链接后，用 ajax.loli.net 替换 ajax.googleapis.com 。**
 
-> 
 ## [Microsoft Ajax Content Delivery Network](https://docs.microsoft.com/en-us/aspnet/ajax/cdn/overview)<br>
 
 > The Microsoft Ajax Content Delivery Network (CDN) hosts popular third party JavaScript libraries such as jQuery and enables you to easily add them to your Web applications.<br>
@@ -68,19 +69,21 @@ subtitle: '免费JavaScript加速服务'
 
 ## 综合对比：
 
-| 服务商                                                       | 更新频率 | 国内访问速度 | HTTPS/SSL |
-| :----------------------------------------------------------- | :------- | :----------- | :-------- |
-| 国内                                                         |          |              |           |
-| css.loli.net                                                 | ★★★★★    | ★★★★★        | 支持      |
-| 又拍云JS库加速服务                                           | ★        | ★★★★★        | 支持      |
-| Staticfile CDN                                               | ★★★★     | ★★           | 支持      |
-| 75CDN 前端静态资源库                                         | ★★★★★    | ★★★★★        | 支持      |
-| 今日头条静态资源公共库                                       | ★★★      | ★★★★★        | 支持      |
-| 新浪 SAE                                                     | ★★       | ★★★★         | 支持      |
-| 国外                                                         |          |              |           |
-| Google                                                       | ★★★★★    | 无法访问     | 支持      |
-| Microsoft                                                    | ★★★★★    | ★★★          | 强制      |
-| cdnjs                                                        | ★★★★★    | ★★★★         | 支持      |
-| jsDelivr                                                     | ★★★★★    | ★★★★★        | 支持      |
-| unpkg                                                        | ★★★★★    | ★★★          | 强制      |
-| * 测试文件为各服务商在 http 协议下的 jQuery 2.0.0 minified 版本 |          |              |           |
+| 服务商                                                       | 更新频率 | 国内访问速度（毫秒） | HTTPS/SSL |
+| :----------------------------------------------------------- | :------- | :------------------- | :-------- |
+| 国内                                                         |          |                      |           |
+| css.loli.net                                                 | ★★★★★    | 238                  | 支持      |
+| 又拍云JS库加速服务（不推荐，更新频率过慢）                   | ★        | 42                   | 支持      |
+| Staticfile CDN                                               | ★★★★     | 65                   | 支持      |
+| 75CDN 前端静态资源库                                         | ★★★★★    | 177                  | 支持      |
+| 今日头条静态资源公共库                                       | ★★★      | 141                  | 支持      |
+| 新浪 SAE                                                     | ★★       | 60                   | 支持      |
+| 饿了么cdn                                                    | ★★★★★    | 95                   | 支持      |
+| 知乎cdn                                                      | ★★★★★    | 107                  | 支持      |
+| 国外                                                         |          |                      |           |
+| Google                                                       | ★★★★★    | 无法访问             | 支持      |
+| Microsoft                                                    | ★★★★★    | 215                  | 强制      |
+| cdnjs                                                        | ★★★★★    | 215                  | 支持      |
+| jsDelivr（有国内节点）                                       | ★★★★★    | 35                   | 支持      |
+| unpkg                                                        | ★★★★★    | 245                  | 强制      |
+| * 测试文件为各服务商在 https 协议下的 jQuery 2.0.0 minified 版本，部分没有的取了2.1.0-beta2，刷新3次取平均值然后四舍五入到整数 |          |                      |           |
