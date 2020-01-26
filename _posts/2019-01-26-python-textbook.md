@@ -18,4 +18,6 @@ subtitle: '分享：很好的编程教材'
 [与孩子一起学编程 中文版（英文html版本，加载快）](https://livebook.manning.com/book/hello-world/chapter-1)
 
 学习愉快！(呵呵)<br>
-![学习愉快](https://image.slidesharecdn.com/llc400-2013-l22-130313014609-phpapp02/95/llc4002013l22-19-638.jpg?cb=1363139273)
+<!--https://image.slidesharecdn.com/llc400-2013-l22-130313014609-phpapp02/95/llc4002013l22-19-638.jpg?cb=1363139273 -->
+
+![image](https://files2.liangxu.wang/happily-learn.jpg)

@@ -12,7 +12,7 @@ subtitle: '免费图床'
 Q:怎么办呢？<br>
 A:我使用了免费存放照片的服务器，这样就行了。下面给大家推荐一些免费照片服务器。<br>
 0.晓黑板晓书包图床（推荐）<br>
-按照[这篇文章](待补充，有道云笔记)注册晓黑板账号、存储图片进晓书包，目前晓书包没有限制外链，如果失效了请在评论区告诉我。<br>1.小贱贱图床<br>
+按照[这篇文章](https://note.youdao.com/noteshare?id=17dc29e0bc948ee5e90bbb8bb7b03ed3)注册晓黑板账号、存储图片进晓书包，目前晓书包没有限制外链，如果失效了请在评论区告诉我。<br>1.小贱贱图床<br>
 这个图床把图片存在微博，~~稳定性肯定是有的~~，但是无法删除。[传送门](https://pic.xiaojianjian.net/)2019.07.22更新：可能存在被限外链的情况<br>
 2.贴图库<br>
 贴图库不限流量，提供API，不错。[传送门](http://www.tietuku.com/)<br>
@@ -92,12 +92,12 @@ Github大佬icret编的[开源项目](https://github.com/icret/easyImages2.0),�
 最大10MB大小.[传送门](https://www.hualigs.cn)<br>
 40.麒麟站<br>
 新成立的图床.[传送门](https://07.tn/)<br>
-41.帕格图床<br>
-默认使用SM.MS图床，你也可以点击左边的菜单切换,但请不要使用Gitee和Github。[传送门](https://img.pug.pub/)<br>
+~~41.帕格图床<br>
+默认使用SM.MS图床，你也可以点击左边的菜单切换,但请不要使用Gitee和Github。传送门~~2019.12.16更新：已挂<br>
 42.zx95.net<br>
 最大 2 MB 图片大小. [传送门](https://www.zx95.net/)<br>
 43.imgbox<br>
-单张最大10MB大小。[](https://imgbox.com)<br>
+单张最大10MB大小。[传送门](https://imgbox.com)<br>
 44.Boin space<br>
 无限制。[传送门](https://boin.space/)<br>
 45.imggmi<br>

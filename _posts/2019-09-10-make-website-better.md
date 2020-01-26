@@ -2,7 +2,7 @@
 layout: post
 title:  "网站优化"
 date:   2019-09-10 17:00:00 +0800
-tags: free_things web
+tags: free_things build_websites
 color: '#99CC99'
 cover: 'https://pinwen.gitee.io/img/seo.svg'
 subtitle: '网站优化'
@@ -13,6 +13,8 @@ subtitle: '网站优化'
 
 网站优化不是一件简单的事情。小到个人博客，大到商业网站，只要是优秀的网站，都会耗费大量的时间来做网站优化。为什么它如此重要？这是因为，只有把网站优化做好了，比如，提升加载速度，才能更好地留住访问者，**保持（甚至提升）网站流量。**<br>
 下面就是我捣腾N年的结果，希望对你有帮助。<br>
+
+2020.1.21更新：我又写了篇[启用ssl的证书]()的文章，具体的可以在文章里看看。
 
 ## 一、网站分析<br>
 

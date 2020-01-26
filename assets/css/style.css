@@ -41,7 +41,7 @@ a{
   color: #444;
   /*display: block;*/
   /*font-family: 'Kaushan Script', cursive;*/
-  font-family: Pacifico;
+  font-family: Ubuntu;
 }
 .top-nav{
     height: 100%;
@@ -132,7 +132,7 @@ a{
     /*font-weight: 600;*/
     color: #555;
     /*font-family: 'Kaushan Script', cursive;*/
-    font-family: Pacifico;
+    font-family: Ubuntu;
 }
 .top span:nth-child(2){
     display: block;

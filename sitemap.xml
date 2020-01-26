@@ -1,40 +1,161 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <!-- Created By http://www.zhetao.com/sitemapcreator,  URLs: 26 Generated at: 2020-01-26 18:01:26 -->
 
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://pinwen.cc/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>1.00</priority>
+  </url>
 
-   <url>
+  <url>
+    <loc>https://pinwen.cc/tags.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>1.00</priority>
+  </url>
 
-      <loc>https://pinwen.cc/</loc>
+  <url>
+    <loc>https://pinwen.cc/about.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>1.00</priority>
+  </url>
 
-      <lastmod>2019-08-13</lastmod>
+  <url>
+    <loc>https://pinwen.cc/friendLink.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>1.00</priority>
+  </url>
 
-      <changefreq>weekly</changefreq>
+  <url>
+    <loc>https://pinwen.cc/2019/10/01/%E8%B0%B7%E6%AD%8C%E6%B5%8F%E8%A7%88%E5%99%A8%E6%89%A9%E5%B1%95-crx-%E4%B8%8B%E8%BD%BD.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>1.00</priority>
+  </url>
 
-      <priority>0.9</priority>
+  <url>
+    <loc>https://pinwen.cc/2019/09/20/a-free-movie-website-%E4%B8%80%E4%B8%AA%E5%85%8D%E8%B4%B9%E7%94%B5%E5%BD%B1%E7%BD%91%E7%AB%99.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>1.00</priority>
+  </url>
 
-   </url>
+  <url>
+    <loc>https://pinwen.cc/page2/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>1.00</priority>
+  </url>
 
-   <url>
+  <url>
+    <loc>https://pinwen.cc/2019/09/15/%E4%B8%8B%E8%BD%BD%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E8%A7%86%E9%A2%91.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>1.00</priority>
+  </url>
 
-      <loc>https://pinwen.cc/page2</loc>
+  <url>
+    <loc>https://pinwen.cc/timeline.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>1.00</priority>
+  </url>
 
-      <lastmod>2019-08-13</lastmod>
+  <url>
+    <loc>https://pinwen.cc/2019/09/10/make-website-better.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
 
-      <changefreq>weekly</changefreq>
+  <url>
+    <loc>https://pinwen.cc/2019/09/20/%E5%A6%82%E4%BD%95%E5%BF%AB%E9%80%9F%E4%B8%8B%E8%BD%BD.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.84</priority>
+  </url>
 
-      <priority>0.9</priority>
+  <url>
+    <loc>https://pinwen.cc/2019/09/01/how-to-set-up-a-completely-free-blog-%E5%AE%8C%E5%85%A8%E5%85%8D%E8%B4%B9%E5%8D%9A%E5%AE%A2.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.83</priority>
+  </url>
 
-   </url>
-   <url>
+  <url>
+    <loc>https://pinwen.cc/2019/07/22/free-image-bed.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.83</priority>
+  </url>
 
-      <loc>https://pinwen.cc/page3</loc>
+  <url>
+    <loc>https://pinwen.cc/2019/09/02/a-gdp-video-%E4%B8%80%E4%B8%AA%E5%85%B3%E4%BA%8EGDP%E5%8F%91%E5%B1%95%E7%9A%84%E8%A7%86%E9%A2%91.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.82</priority>
+  </url>
 
-      <lastmod>2019-08-13</lastmod>
+  <url>
+    <loc>https://pinwen.cc/2019/08/07/%E5%85%8D%E8%B4%B9JavaScript%E5%8A%A0%E9%80%9F%E6%9C%8D%E5%8A%A1.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.82</priority>
+  </url>
 
-      <changefreq>weekly</changefreq>
+  <url>
+    <loc>https://pinwen.cc/2019/01/26/python-textbook.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.82</priority>
+  </url>
 
-      <priority>0.9</priority>
+  <url>
+    <loc>https://pinwen.cc/2019/08/04/python-wxpy.md.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.82</priority>
+  </url>
 
-   </url>
+  <url>
+    <loc>https://pinwen.cc/2019/01/22/photoshop.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>https://pinwen.cc/2019/01/27/%E7%94%A8%E8%BE%97%E8%BD%AC%E7%9B%B8%E9%99%A4%E6%B3%95%E6%B1%82%E6%9C%80%E5%A4%A7%E5%85%AC%E5%9B%A0%E6%95%B0.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.71</priority>
+  </url>
+
+  <url>
+    <loc>https://pinwen.cc/page6/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.67</priority>
+  </url>
+
+  <url>
+    <loc>https://pinwen.cc/page3/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.66</priority>
+  </url>
+
+  <url>
+    <loc>https://pinwen.cc/page4/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.66</priority>
+  </url>
+
+  <url>
+    <loc>https://pinwen.cc/page5/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.66</priority>
+  </url>
+
+  <url>
+    <loc>https://pinwen.cc/page7/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.63</priority>
+  </url>
+
+  <url>
+    <loc>https://pinwen.cc/page7</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.63</priority>
+  </url>
+
+  <url>
+    <loc>https://pinwen.cc/robots.txt</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.52</priority>
+  </url>
 
 </urlset>

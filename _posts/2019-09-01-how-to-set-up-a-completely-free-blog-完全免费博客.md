@@ -2,7 +2,7 @@
 layout: post
 title:  "完全免费博客"
 date:   2019-09-01 12:00:00 +0800
-tags: free_things web
+tags: free_things build_websites
 color: '#663333'
 cover: 'https://pinwen.gitee.io/img/blogs.jpg'
 subtitle: '完全免费博客'
@@ -333,4 +333,4 @@ Vue Page Designer是一个简单的在线工具，可以生成一个可以使用
 
 - 仅用于生成表单<br>
 
-**注：网站优化我会在下一篇文章中讲，敬请期待。**
+**注：网站优化我会在下一篇文章，有需要的同学可以[点击这里](/2019/09/10/make-website-better.html)。**
