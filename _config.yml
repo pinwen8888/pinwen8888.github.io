@@ -25,8 +25,8 @@ portraits: '/assets/profile.jpeg' # your portraits image file path
 # SNS
 SNS: true
 SNS-icon: #['qq', 'github', 'weixin', 'Codepen', 'mail']
-  mail: 'mailto:wpinwen2007@tom.com'
-  weixin: 'https://upload.cc/i1/2019/07/19/yjNRFv.jpeg' # 你的微信二维码存放的地址
+  mail: 'mailto:wpw2007126@tom.com'
+  weixin: 'http://files1.liangxu.wang/wechat-qrcode.jpeg' # 你的微信二维码存放的地址
   qq: 'http://wpa.qq.com/msgrd?v=3&uin=3086616942&site=qq&menu=yes' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='你的QQ号'&site=qq&menu=yes
   github: 'https://github.com/pinwen8888'
   Codepen: 'https://codepen.io/pinwen8888/'
@@ -84,7 +84,7 @@ social-share-items: ['qq', 'wechat', 'weibo', 'twitter', 'facebook']
 baidu: false
 baidu-url: ''
 # 谷歌分析 在google-ID里填写自己在谷歌分析获得的追踪ID
-google: true
+google: false
 google-ID: 'UA-133914017-1'
 
 # 博客头信息备选颜色（该部分在站点中不充当站点变量，将其写在post的头信息中用来充当页面变量）

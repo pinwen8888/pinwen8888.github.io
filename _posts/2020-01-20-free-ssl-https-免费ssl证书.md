@@ -24,12 +24,12 @@ A:Yep，[KeyManager](https://keymanager.org/)了解一下。
 
 敲黑板了，下面是本人整理了一周多时间整理出来的免费证书颁发以及试用平台，看！好！了！
 
-**重要：请注意证书的有效期：
-Let's encrypt证书为3个月；
-TrustAsia证书为1年；
-Buypass证书6个月；
-Rapidssl证书为1个月；
-COMODO（Sectigo）证书为3个月；
+**重要：请注意证书的有效期：<br>
+Let's encrypt证书为3个月；<br>
+TrustAsia证书为1年；<br>
+Buypass证书6个月；<br>
+Rapidssl证书为1个月；<br>
+COMODO（Sectigo）证书为3个月；<br>
 若平台没有自动续期或你是手动绑定的证书，请在证书过期前记得续期，同时建议到[Myssl](https://myssl.com)输入你的网站，点击右面的“证书到期提醒”订阅。**
 
 ## 1.[sslforfree](https://www.sslforfree.com/)
