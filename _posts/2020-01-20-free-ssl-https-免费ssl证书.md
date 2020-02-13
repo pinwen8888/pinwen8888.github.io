@@ -24,13 +24,29 @@ A:Yep，[KeyManager](https://keymanager.org/)了解一下。
 
 敲黑板了，下面是本人整理了一周多时间整理出来的免费证书颁发以及试用平台，看！好！了！
 
-**重要：请注意证书的有效期：<br>
+**重要：请注意证书的有效期：
+TrustOcean的免费证书为1年<br>
 Let's encrypt证书为3个月；<br>
 TrustAsia证书为1年；<br>
 Buypass证书6个月；<br>
 Rapidssl证书为1个月；<br>
 COMODO（Sectigo）证书为3个月；<br>
 若平台没有自动续期或你是手动绑定的证书，请在证书过期前记得续期，同时建议到[Myssl](https://myssl.com)输入你的网站，点击右面的“证书到期提醒”订阅。**
+
+## 0.[TrustOcean免费证书](https://console.trustocean.com/cart.php?a=confproduct&i=0)（2020.2.11更新）
+
+![出现此文字请在评论区联系我TrustOcean](https://ae01.alicdn.com/kf/H19005efcc0e14cf4b846fd3560e2df9cW.png)
+
+前几天看夜半观星的文章写着TrustOcean有免费多域名、通配符证书，找了好久还没找到，放弃了。今天突然发现了，我很激动，在这里分享给大家。
+
+**注：可能是因为官方的限制，上面图片里的链接直接访问不行，需点击标题的链接然后再点击右面的“立即试用”来访问。（或者按照下面的图片来操作）**
+
+![](https://img01.sogoucdn.com/app/a/100520146/c1832c0e4e7d946911a1f18e94d16809)
+
+- 支持保护**多条域名（包括通配符，最多3000）**
+- 全球信任 SSL证书
+- 仅提供社区技术支持
+- 非商业保障级别证书
 
 ## 1.[sslforfree](https://www.sslforfree.com/)
 
@@ -123,7 +139,4 @@ freessl.org是个GUI神似freessl.cn的免费ssl证书颁发网站，默认语�
 
 这个我感觉实在是没有什么必要，虽然GeoTrust的品牌很响，[GeoTrust官网申请](https://www.geotrust.com/ssl/free-ssl-certificate/)。
 
-**最后，祝大家在鼠年万事如意！atatc同学 ~~保重~~ 玩得开心！**
-
-
-
+**最后，祝大家在鼠年万事如意！希望疫情早早过去！atatc同学 ~~保重~~ 玩得开心！**
