@@ -24,6 +24,19 @@ a{
             box-sizing: border-box;
     z-index: 1;
 }
+.bilibili{
+    position: relative;
+    width: 100%;         /*B站若不设置大小有问题，详见https://www.phenxso.com/archives/87.html*/
+    height: 0;              /*高度设置这里无效，设置为0，用padding撑开div*/
+    padding-bottom: 75%;    /*68%到80%都可以*/
+}
+.bilibili iframe {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+}
 .top-center{
     max-width: 1024px;
     height: 100%;
