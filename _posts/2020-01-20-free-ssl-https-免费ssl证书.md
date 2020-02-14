@@ -3,7 +3,7 @@ layout: post
 tite: "最全的ssl获取指南"
 date:   2020-01-26 17:30:30 +0800
 tags: free_things build_websites
-color: '#FF6666'
+color: '#CCCC33'
 cover: 'https://files4.liangxu.wang/img/security.svg'
 subtitle: '最全的ssl获取指南'
 ---
@@ -41,7 +41,7 @@ COMODO（Sectigo）证书为3个月；<br>
 
 **注：可能是因为官方的限制，上面图片里的链接直接访问不行，需点击标题的链接然后再点击右面的“立即试用”来访问。（或者按照下面的图片来操作）**
 
-![](https://img01.sogoucdn.com/app/a/100520146/c1832c0e4e7d946911a1f18e94d16809)
+![image](http://img.gz.gy/images/2020/02/14/enter_trustocean.jpg)
 
 - 支持保护**多条域名（包括通配符，最多3000）**
 - 全球信任 SSL证书

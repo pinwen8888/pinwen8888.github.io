@@ -5,7 +5,7 @@ date:   2019-08-07 15:40:00 +0800
 tags: free_things
 color: 'rgb(255,210,32)'
 cover: 'https://img.c7sky.com/photobucket/javascript-libraries-cdn_zps1db67ec0.png'
-subtitle: '免费JavaScript加速服务'
+subtitle: '免费JavaScript、css加速服务'
 ---
 作为开发者，经常会用到一些开源的JS库，这时候一个免费JavaScript加速服务就显得极为重要，因为它最先加载，如果它加载的速度快，整个网站的加载速度也快了。下面我就来盘点一下那些免费JavaScript加速服务。<br>
 
@@ -36,7 +36,12 @@ subtitle: '免费JavaScript加速服务'
 > SAE的为很多流行的开源js/css库提供了CDN加速服务，开发者可以引用我们的js/css库来提升你的应用的访问速度。<br>
 
 ## [Google Hosted Libraries](https://developers.google.cn/speed/libraries/)<br>
-**重要：由于Google在国内无法访问，请点击上面的链接获取对应的库的链接后，用 ajax.loli.net 替换 ajax.googleapis.com 。**
+**重要：由于Google在国内无法访问，请点击上面的链接获取对应的库的链接后，用 ajax.loli.net 或fdn.geekzu.org/ajax或gapis.geekzu.org/ajax/替换 ajax.googleapis.com 。<br>
+注意，ajax.googleapis.com/ajax/应当替换为gapis.geekzu.org/ajax/ajax/ **
+
+## [极客族公共加速服务](https://cdn.geekzu.org/cached.html)
+
+*提供静态资源加速服务*
 
 ## [Microsoft Ajax Content Delivery Network](https://docs.microsoft.com/en-us/aspnet/ajax/cdn/overview)<br>
 

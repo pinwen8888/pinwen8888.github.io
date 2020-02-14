@@ -22,4 +22,4 @@ subtitle: '自己从网上搜罗素材，用Photoshop做的一张图片'
 
 注：
 1.本图素材搜集自网络
-2.若你有Photoshop，可以[点击](https://liangxu.wang/Photoshop%E4%BD%9C%E5%93%81.zip)下载我的psd文件（需先安装压缩包里的字体）
+2.若你有Photoshop，可以[点击](http://files1.liangxu.wang/Ps作品.zip)下载我的psd文件（需先安装压缩包里的字体）
