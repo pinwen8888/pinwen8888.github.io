@@ -24,29 +24,53 @@ A:Yep，[KeyManager](https://keymanager.org/)了解一下。
 
 敲黑板了，下面是本人整理了一周多时间整理出来的免费证书颁发以及试用平台，看！好！了！
 
-**重要：请注意证书的有效期：
-TrustOcean的免费证书为1年<br>
+**重要：请注意证书的有效期：<br>
+TrustOcean的证书为3个月/1个月（看申请时候的选择）；<br>
+GoGetSSL的证书为3个月；<br>
+阿里云Encryption Everywhere证书为1年；<br>
 Let's encrypt证书为3个月；<br>
 TrustAsia证书为1年；<br>
 Buypass证书6个月；<br>
 Rapidssl证书为1个月；<br>
+金网科技证书未知；<br>
 COMODO（Sectigo）证书为3个月；<br>
+Geotrust的证书为1个月；<br>
 若平台没有自动续期或你是手动绑定的证书，请在证书过期前记得续期，同时建议到[Myssl](https://myssl.com)输入你的网站，点击右面的“证书到期提醒”订阅。**
 
-## 0.[TrustOcean免费证书](https://console.trustocean.com/cart.php?a=confproduct&i=0)（2020.2.11更新）
+## -2.[TrustOcean免费证书](https://console.trustocean.com/cart.php?a=confproduct&i=0)（2020.2.11更新）
 
-![出现此文字请在评论区联系我TrustOcean](https://ae01.alicdn.com/kf/H19005efcc0e14cf4b846fd3560e2df9cW.png)
-
-前几天看夜半观星的文章写着TrustOcean有免费多域名、通配符证书，找了好久还没找到，放弃了。今天突然发现了，我很激动，在这里分享给大家。
+前几天看[夜半观星的文章](https://www.resdon.cn/article/free-ssl.html)写着TrustOcean有免费多域名、通配符证书，找了好久还没找到，放弃了。今天突然发现了，我很激动，在这里分享给大家。
 
 **注：可能是因为官方的限制，上面图片里的链接直接访问不行，需点击标题的链接然后再点击右面的“立即试用”来访问。（或者按照下面的图片来操作）**
 
-![image](http://img.gz.gy/images/2020/02/14/enter_trustocean.jpg)
+![trustocean](https://pro-image.xiaoheiban.cn/202002/88515ee8-0bec-4b09-9b52-74bd314c0bbc.jpg)
 
-- 支持保护**多条域名（包括通配符，最多3000）**
+创建订单界面如下，可选1月或3月有效期，支持同时下单100本，最高**支持100条域名**，比之前3000条少，但也绝对够用，哪个人有100+域名的我叫他爸爸：）
+
+![出现此文字请在评论区联系我TrustOcean](https://files4.liangxu.wang/img/trustocean.png)
+
+- 支持保护**多条域名（包括通配符，最多100）**
 - 全球信任 SSL证书
 - 仅提供社区技术支持
 - 非商业保障级别证书
+
+## -1.[阿里云Encryption Everywhere](https://common-buy.aliyun.com/?spm=5176.7968328.1266638..486b1232y9Rzgc&commodityCode=cas&aly_as=r61wfkwS#/buy)（2020.2.16更新）
+
+我~~从来都不是一个丢三落四的人~~就怪了，这不，又把这个给忘了。好了，切入正题：阿里云提供Encryption Everywhere（赛门铁克旗下）的免费证书，应该是需要阿里云的账号，不过这个我相信很多人都应该有，没有注册也简单，实名认证直接用支付宝的就行了。一个账号最多签发20张，搞完了以后用其它的就行了。
+![aliyun-certificate](https://pro-image.xiaoheiban.cn/202002/0a2a4606-3ccb-4858-b93e-e9ef230abbb2.png)
+
+- 免费重新颁发
+- 有效期长（1年）
+- 单域名
+
+## 0.[GoGetSSL免费证书](https://www.gogetssl.com/dv-ssl/free-ssl/)（2020.2.15更新）
+
+这是一个免费的三个月（90天）的证书；可以搞www和非www共2个域名。看上去好像是永久免费的（也可能是我理解能力不太好。）申请前，你需要注册个它的账号；然后它提供“免费安全标示”，免费重新颁发。想用就用吧。
+
+- 免费重新颁发
+- 免费安全标示
+- 需要注册账号
+- 50,000$用户保障
 
 ## 1.[sslforfree](https://www.sslforfree.com/)
 
@@ -135,7 +159,7 @@ freessl.org是个GUI神似freessl.cn的免费ssl证书颁发网站，默认语�
 - 可离线使用
 - [开源](https://github.com/diafygi/gethttpsforfree)在Github
 
-## 13.[Geotrust试用](https://www.geotrust.com/ssl/free-ssl-certificate/)
+## 13.[Geotrust（试用）](https://www.geotrust.com/ssl/free-ssl-certificate/)
 
 这个我感觉实在是没有什么必要，虽然GeoTrust的品牌很响，[GeoTrust官网申请](https://www.geotrust.com/ssl/free-ssl-certificate/)。
 

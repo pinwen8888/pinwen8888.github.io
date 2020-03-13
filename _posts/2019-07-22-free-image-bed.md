@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "免费图床（超多）"
+title:  "免费图床（超多，持续更新）"
 date:   2019-07-22 15:40:00 +0800
 tags: free_things
 color: '#CC99CC'
 cover: 'https://imageproxy.pimg.tw/resize?url=http://image.coolapk.com/apk_logo/2017/0702/icon-for-148302-o_1bk11b5ukjku9pbanft1j9q15-uid-798231.png'
-subtitle: '免费图床'
+subtitle: '免费图床（持续更新）'
 ---
 
 *最近弄了一个博客，因为某种原因，国内用户无法看到图片，但是我网站上又有不少图片。*<br>

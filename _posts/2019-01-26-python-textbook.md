@@ -14,7 +14,7 @@ subtitle: '分享：很好的编程教材'
 但是，我找了很久，都没有找到一本好书…………<br>
 直到我发现了这本书。<br>
 在这里推荐给大家：<br>
-[与孩子一起学编程 中文版（中文pdf版本，加载慢，适合下载）](https://pinwen.gitee.io/files/与孩子一起学编程_中文版.pdf )
+[与孩子一起学编程 中文版（中文pdf版本，加载慢，适合下载）](https://pinwen.gitee.io/files/与孩子一起学编程_中文版.pdf )<br>
 [与孩子一起学编程 中文版（英文html版本，加载快）](https://livebook.manning.com/book/hello-world/chapter-1)
 
 学习愉快！(呵呵)<br>
